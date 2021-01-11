@@ -2,7 +2,7 @@ package edu.cgcc.cs161;
 
 /* PSEUDOCODE
  * Program start
- * Insert public static void main
+ * Insert public static void main to ensure it is a static variable
  * Print "Hello World!"
  * Program end
  */
