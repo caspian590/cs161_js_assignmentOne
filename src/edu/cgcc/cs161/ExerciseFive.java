@@ -1,29 +1,42 @@
+
+/* PSEUDOCODE
+ * Program start
+ * Create class Calculator
+ * Create and define int a and b
+ * Multiply int a and b using var c
+ * Print c
+ * Program end
+ */
+
 package edu.cgcc.cs161;
 
 public class ExerciseFive {
 
-	class Calculator{
+	
 	
 		
 		
 		
-		
 
- int first = 2;
-    System.out.println("first"); // prints 2
-   int second = 4;
-    System.out.println("second"); // prints 4
+class Calculator { 
+
+    int a; 
   
-	Calculate (first + second)
-
-	
-	
-			
-		}
-		}
-	
-	
-	
-	
-	
-
+    int b;
+   
+    
+} 
+   
+class PleaseWork { 
+  
+    { 
+       int a = 20; 
+       int b = (int) 1.5;
+       
+     var c = (a*b);
+     System.out.println (c);
+     
+      
+       
+    }
+}}
